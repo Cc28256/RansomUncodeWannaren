@@ -1,0 +1,14 @@
+﻿  ransom_wannaren.cpp
+f:\openssl-win32\include\openssl\applink.c(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+f:\openssl-win32\include\openssl\applink.c(123): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_io.h(390): note: 参见“_open”的声明
+c:\users\cc\source\repos\ransom_wannaren\ransom_wannaren\ransom_wannaren.cpp(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\cc\source\repos\ransom_wannaren\ransom_wannaren\ransom_wannaren.cpp(163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\cc\source\repos\ransom_wannaren\ransom_wannaren\ransom_wannaren.cpp(232): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\cc\source\repos\ransom_wannaren\ransom_wannaren\ransom_wannaren.cpp(266): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+    正在创建库 C:\Users\Cc\source\repos\ransom_wannaren\Debug\ransom_wannaren.lib 和对象 C:\Users\Cc\source\repos\ransom_wannaren\Debug\ransom_wannaren.exp
+  ransom_wannaren.vcxproj -> C:\Users\Cc\source\repos\ransom_wannaren\Debug\ransom_wannaren.exe
